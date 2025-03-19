@@ -1,22 +1,22 @@
-Justification of how relevant regulatory guidelines and legal requirements will be 
-addressed: 
+users (id, username, email, password), consultation(id, user id, date, time, submitted time), installation(id, user id, date, time, had consultation, submitted time), energy tracker(id, use id, input, cost, extra), carbon footprint(id, input, result), contact us (name, email, coment), reviews (id, rating, comment)
 
-The relevant regulatory guidelines will be met by using accessibility page which will follow WCAG 2.1 guidelines which will provide accessibility for people with disabilities and accessibilities. Customers will be able to choose the accessibility feature which will be the most suitable for them. The solution will follow GDPR guidelines by making the user to accept or deny cookies and also there will be terms and conditions page located on the footer of the page. this page will explain to users how the company uses data. when customer will try to register they will need to accept these terms and conditions.
+page to make sure 
+the navigation bar, footer 
+and information is 
+displaying correctly and is 
+web responsive without 
+any problems. /
+Acceptance testing/ Home, advice, about us, risk 
+assessment, register, login, 
+and policy page to be 
+already created. 
 
-Activity Ai: 
-How hardware and software are used within the context of the industry:
 
-For developing the solution effectively, a power full PC is needed with fast components for easy and effective coding. The software which are going to be used are Bootstrap and Universe for web development, draw.io for drawing flowchart and diagrams and Visual Studio Code for coding the solution.
+unit testing / fetching from sql
 
-Newly emerging technologies: 
-
-How digital solutions could be used to meet different needs:
-
-The websites such as . meet different user needs by having a navigation bar which helps the user to be able to choose where they would like to be transferred. they have pages.
-
-The industry-specific guidelines and regulations you will need to follow:
- 
-The website has links at the bottom of the page for policies, accessibility statement and cookies 
-so the user knows how they use their data. I will need to create a policy page outlining policies and 
-important information about the website. I will need to create a cookies page to tell customers how 
-the digital solution collects their data. I will also have to follow the web content accessibility
+Testing the code to make 
+sure it’s efficient and 
+professional. 
+White box testing. The whole solution and SQL 
+database to be already 
+completed.
