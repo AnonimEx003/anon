@@ -1,3 +1,9 @@
+Field Name 
+Data Type 
+Data Format 
+Field Size 
+Description Example
+
 users (id, username, email, password), consultation(id, user id, date, time, submitted time), installation(id, user id, date, time, had consultation, submitted time), energy tracker(id, use id, input, cost, extra), carbon footprint(id, input, result), contact us (name, email, coment), reviews (id, rating, comment)
 
 page to make sure 
